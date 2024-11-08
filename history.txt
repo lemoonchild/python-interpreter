@@ -1,0 +1,22 @@
+2024-11-08 15:03:31.968363: Calcula la suma de 2 y 3-->5
+2024-11-08 15:03:49.057508: Genera una lista del 1 al 10-->[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+```
+2024-11-08 15:05:38.070436: Crea un juego básico de snake con la librería pygame-->Agent stopped due to iteration limit or time limit.
+2024-11-08 15:06:18.947442: Calcula la suma de 2 y 3-->5
+2024-11-08 15:06:39.177546: Genera una lista del 1 al 10-->[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+```
+2024-11-08 15:07:01.045433: Crea una función que calcule el factorial de un número-->He creado una función que calcula el factorial de un número. Aquí está el código:
+
+```python
+def factorial(n):
+    if n == 0:
+        return 1
+    else:
+        return n * factorial(n-1)
+
+# Test the function with an example
+print(factorial(5))  # Output: 120
+```
+
+La función `factorial` utiliza recursión para calcular el factorial de un número dado.
+2024-11-08 15:07:46.696816: Crea un juego básico de snake con la librería pygame-->No puedo ejecutar el código porque la librería `pygame` no está instalada en este entorno. Sin embargo, puedes copiar el código proporcionado y ejecutarlo en tu propio entorno local donde tengas `pygame` instalado para jugar al juego de Snake.
